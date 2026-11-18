@@ -1,5 +1,7 @@
 # 🌾 AgriMitra: Smart Harvest & Price Advisory
 
+🚀 **Live App:** [agrimitra-kerala.streamlit.app](https://agrimitra-kerala.streamlit.app)
+
 An end-to-end decision-support web application and Power BI market intelligence suite for Kerala cash-crop farmers across all **14 districts**.
 
 ## 🚀 Key Features
